@@ -1,3 +1,3 @@
 <?php
-$clementines = "I prefer clementines";
+$clementines = "I prefer clementines (celementine dependency)";
 ?>
